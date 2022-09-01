@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_actualizar_datos"
+        android:title="@string/menu" />
+    <item
+        android:id="@+id/menu_ChangePass"
+        android:title="@string/label_changePass" />
+    <item
+        android:id="@+id/menu_closeSession"
+        android:title="@string/menu_cerrar_sesion" />
+</menu>

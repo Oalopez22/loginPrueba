@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">mainActivity</string>
+
+    /* Labels */
+    <string name="label_Correo">Correo :</string>
+    <string name="label_Contraseña">Contraseña :</string>
+    <string name="label_Confirmar_password">Confirmar contraseña :</string>
+    <string name="label_Nombre">Nombre :</string>
+    <string name="label_datos">Actualizacion de datos</string>
+    <string name="label_ChangePass">Cambiar contraseña</string>
+    <string name="label_changePass">Cambiar contraseña</string>
+    /* hints */
+    <string name="hint_Correo">Correo</string>
+    <string name="hint_Nombre">Nombre</string>
+    <string name="hint_Contraseña">Contraseña</string>
+
+    /* Botones */
+    <string name="btn_Login">Iniciar Sesion</string>
+    <string name="btn_Registrar">Registrarse</string>
+    <string name="btn_Actualizar">Actualizar</string>
+    <string name="btn_ActualizarPass">Actualizar Contraseña</string>
+
+    /* Formulario de registro de usuario*/
+    <string name="Label_Formulario">Formulario de Registro</string>
+
+
+    /*Barra de menu/*
+    <string name="menu">Actualizar datos</string>
+    <string name="menu_cerrar_sesion">Cerrar sesion</string>
+</resources>
